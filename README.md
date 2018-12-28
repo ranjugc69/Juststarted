@@ -7,7 +7,11 @@ This repository has more than 10 basic commits on master and two on branch 'just
 
 * Clone to the repo made in github in local computer
 * Using `git log` to review simple history
-* Filtering `git log` with `--author` option
+* Adding and committing 
+* Using git status
 * Creating a branch
 * Pushing commits to the github
+* Pulling branch from the github
+* Adding and commits to branches
+* Pushing branches to the github server
 
